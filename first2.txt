@@ -1,6 +1,0 @@
-これから勉強します。
-git add
-git commit
-git push
-追加
-追加追加
